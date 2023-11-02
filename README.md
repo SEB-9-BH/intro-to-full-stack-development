@@ -1,8 +1,8 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[Intro to Full-Stack Development]](./assets/tktk-hero.png)
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module introduces full stack development. It covers client/server architecture, components of a full stack, and common stacks used in modern web development. 
 
 ## Prerequisites
 
@@ -14,31 +14,17 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Defining Full Stack Development and Client/Server Architecture](./defining-full-stack-dev-and-client-server-architecture/README.md) | -- | -- | Define full stack and client/server architecture, the foundations of modern web development. |
+| [Client/Server Architecture](./client-server-architecture/README.md) | -- | -- | The system design pattern that powers the web. |
+| [Components of a Full Stack](./components-of-a-full-stack/README.md) | -- | -- | The three components of full stack: front end, back end, and database. |
+| [Common Stacks Used in Modern Web Development](./common-stacks-in-modern-web-dev/README.md) | -- | -- | Explore the most popular web development stacks used today. |
 | **Total content**                                        | -- | -- |                     |
 
-## Level Up content
-
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
-| **Total Level Up content**                                          | -- | -- |                     |
 
 ## References
 
 📖 [Reference Materials](./references/README.md)
 
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 
