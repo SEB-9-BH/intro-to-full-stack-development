@@ -14,8 +14,8 @@ This module introduces full stack development. It covers client/server architect
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Defining Full Stack Development and Client/Server Architecture](./defining-full-stack-dev-and-client-server-architecture/README.md) | -- | -- | Define full stack and client/server architecture, the foundations of modern web development. |
 | [Client/Server Architecture](./client-server-architecture/README.md) | -- | -- | The system design pattern that powers the web. |
+| [Defining Full Stack Development and Client/Server Architecture](./defining-full-stack-dev-and-client-server-architecture/README.md) | -- | -- | Define full stack web development. |
 | [Components of a Full Stack](./components-of-a-full-stack/README.md) | -- | -- | The three components of full stack: front end, back end, and database. |
 | [Common Stacks Used in Modern Web Development](./common-stacks-in-modern-web-dev/README.md) | -- | -- | Explore the most popular web development stacks used today. |
 | **Total content**                                        | -- | -- |                     |

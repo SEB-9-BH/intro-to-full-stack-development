@@ -2,34 +2,20 @@
 
 **Learning objective:** By the end of this lesson, students will be able to define client/server architecture. 
 
-## Client/server architecture -- a deeper dive
-
-We've already defined client/server architecture, so let's dive into the details.
+## Client/server architecture
 
 ![Client/server architecture cycle](./assets/originals/client-server-architecture.png)
 
-tktk hunter -- please make this prettier
-
-In the client and server architecture, clients make requests for services from servers. Servers then reply to valid requests with a response containing the requested resource.
+tktk hunter -- please make this prettier.  Also, I prefer a server icon that looks something like this: https://i.imgur.com/YqZANRo.png.  I feel it drives home the point that a server is just computer hooked up to the internet.
 
 The terms *client* and *server* can refer to both a **physical device** (computer, tablet, phone, etc.) and to a **software process**. For example:
 
-- Database software such as PostgreSQL and web servers like Apache are examples of software processes behaving as servers.
-- Browser software such as Chrome or Firefox are examples of software clients.
+- A laptop computer could be thought of as a client, if it is being used to access the internet.  Within that laptop, the web browser (e.g. Chrome, Firefox, etc) that is being used could be thought of as a software client.  It will make requests for information from a server.
+- A server, from the perspective of a software process, is an application who's job it is to respond to client requests for information.  These applications will be running on a computer somewhere that is turned on and connected to the internet.  In this situation, that computer can also be thought of as a server.
 
-Web developers usually think of a web browser when they hear client. Note that during development, your computer plays the role of BOTH client and web server.
+In the client and server architecture, clients make requests for information from servers. Servers then reply to requests with a response containing the requested information.  Here's an example:
 
-> 📚 A *client* refers to a device or application that requests resources, data, or other services from a server, typically over a network. A *server* provides these services to their *clients*.
-
-
-## Components of a client/server architecture
-
-Typically, client/server architecture consists of three components:
-
-- **Client**: The application that interacts with the user. Responsible for sending requests to the server and displaying the server's responses to the user.
-
-- **Server**: The application that stores and processes data. Responsible for responding to client requests and sending appropriate responses back to the client.
-
-- **Network**: The communication channel between the client and server. Responsible for transmitting requests and responses between the client and server. 
-
-
+1. A user navigates to a website in their browser (the browser is the client).
+2. The browser sends a request to the website's server, asking for the HTML code for the website.
+3. The server processes the request and sends the HTML code back to the browser.
+4. The browser displays the website to the user.
