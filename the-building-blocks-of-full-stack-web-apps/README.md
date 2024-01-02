@@ -2,18 +2,6 @@
 
 **Learning objective:** By the end of this lesson, students will be able to define the three components of a full stack: front-end, back-end, and database.
 
-tktk - I'm wondering about the direction of this microlesson - the [client/server architecture](../client-server-architecture-and-full-stack-development/README.md) microlesson is pretty general and could work across SE disciplines and doesn't get too specific into web dev discussions, but this module does for the **Front end** and **Back end** sections (then more generic again with the **Database** section, by its nature).
-
-tktk - With the above in mind, I've rebranded this microlesson as **The Building Blocks of Full-Stack Web Apps** (letting future iterations on this module flesh out other disciplines for other courses if necessary). Even though this is done, I don't think I'd be opposed to taking a more generic direction here, and I would be open to returning to this.
-
-tktk I've gone into more specific techs here as well. For example, in the **Front end** section, we only discussed HTML/CSS/JS, but I threw in React, Angular, and Vue too, if we're going to keep this discussion web-dev focused - Same idea with the **Back end** as well.
-
-tktk This also involved introducing the idea of frameworks/libraries here. Again, it might not be what we want, but defining FE/BE as it relates to web dev without discussing the technologies we commonly use to build FE/BE apps feels weird.
-
-tktk I think frameworks/libraries ***should*** be its own microlesson, but I don't know if it makes sense within the context of this Intro to Full Stack Development module. They are the building blocks of many full-stack web apps, so I feel like they don't fit too poorly here.
-
-tktk If we're discussing frameworks/libraries somewhere else, then we could cut that from here, but I'm not aware of anywhere that we are.
-
 ## Frameworks and libraries
 
 Frameworks and libraries are vital tools in software development. They leverage pre-written code to help accomplish common tasks without having to start from that work from scratch. They can help us by:
@@ -26,7 +14,7 @@ These are just a few examples of the benefits. While it's possible to build full
 
 > 📚 *Abstraction* is the process of hiding technical complexity and details not fully relevant to solving a given problem. It allows programmers to interact with complex systems at a simplified level without having to understand the underlying details.
 
-Libraries and frameworks are not programming languages; thare are just code written using existing languages.
+Libraries and frameworks are not programming languages; they are are just code written using existing languages.
 
 ### The differences between frameworks and libraries
 
@@ -107,7 +95,7 @@ Non-relational databases are often used for applications that store and retrieve
 
 ### How the three components work together
 
-Together, a full-stack web application's front-end, back-end, and database of create a complete user experience.
+Together, a full-stack web application's front-end, back-end, and database create a complete user experience.
 
 When a user visits a website, the front end displays the user interface and handles the user input. It may also send data to or request data from the back end. The back end processes information sent to it from the front end and generates responses.
 
@@ -115,8 +103,8 @@ The back end may also send information to or request information from the databa
 
 tktk Hunter: could use a diagram like the following, but more generic that only shows server and db without the driver, terminal, and database partitions:
 
-![](https://raw.git.generalassemb.ly/Software-Engineering-Immersive-Remote/SEIR-Ewoks/master/unit_2/w04d04/instructor_notes/Client_Server.png?token=AAAAMS4AL6KFPGCGYVLMCMDFKFWEW)
+![here](https://git.generalassemb.ly/Software-Engineering-Immersive-Remote/SEIR-Ewoks/blob/master/unit_2/w04d04/instructor_notes/Client_Server.png)
 
 For example, when a user searches for a product in the search bar of an e-commerce site, the front end will send that product name to the back end.
 
-The back end will then query the database for products matching user's search and generate a response containing the matching products. This response will be sent to the front end, which will display the list of matching products to the user.
+The back end will then query the database for products matching the user's search and generate a response containing the matching products. This response will be sent to the front end, displaying the list of matching products to the user.
