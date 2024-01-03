@@ -4,9 +4,9 @@
 
 ## Client/server architecture
 
-The terms *client* and *server*, used in everyday language, typically refer to a physical device for simplicity. When many think of servers, the first thing that comes to mind is an enormously powerful computer inside a data center. Many people think of their personal devices exclusively as clients.
+The terms *client* and *server*, used in everyday language, typically refer to a physical device for simplicity. When many think of servers, the first thing that comes to mind is an enormously powerful computer inside a data center. Many people think of their devices exclusively as clients.
 
-However, as a developer, taking a more nuanced approach is necessary. When we use the terms *client* and *server*, we'll primarily be referring to software processes and the role those processes play instead. So then, what makes the role of client software different from the role of server software? Broadly:
+However, as a developer, taking a more nuanced approach is necessary. When we use the terms *client* and *server*, we'll primarily be referring to software processes and the role those processes play instead. What makes the role of client software different from the role of server software? Broadly:
 
 - Client software creates requests for services.
 - Server software responds to requests for services.
@@ -41,11 +41,11 @@ Recall the steps above:
 
 A front-end developer will typically only be concerned with what the user sees and how they interact with what they see (steps 1, 2, and 5 above).
 
-A back-end developer will typically only be concerned with what happens in steps 3 and 4 - the actions get carried out in response to requests and the response to those requests. The user doesn't see these steps, but they're just as important.
+A back-end developer primarily focuses on steps 3 and 4 in the web interaction process. Their attention is dedicated to executing actions in response to incoming requests and generating appropriate responses. While these steps remain unseen by the user, their significance is paramount in ensuring the proper functioning and responsiveness of the web application.
 
 A full-stack developer is involved in all of these steps. Because of this, they have to understand both front-end and back-end technologies. But by doing so, they can work on all aspects of a web application, from building the UI to developing the server-side logic, making full-stack devs valuable on the job market.
 
-In addition to the front-end and back-end applications that they create, full-stack developers also have a good understanding of databases. Databases are used to store and manage the application's data. Common database technologies include MySQL, PostgreSQL, and MongoDB.
+In addition to the front-end and back-end applications that they create, full-stack developers also have a good understanding of databases. Databases are used to store and manage the application's data. Standard database technologies include MySQL, PostgreSQL, and MongoDB.
 
 ![Full stack development end to end workflow](./assets/originals/full-stack-mongodb.png)
 
