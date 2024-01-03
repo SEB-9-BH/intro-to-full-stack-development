@@ -4,13 +4,7 @@
 
 ## What are frameworks and libraries?
 
-Frameworks and libraries are vital software development tools and key components of full-stack development. They leverage pre-written code to help accomplish common tasks without having to start from that work from scratch.
-
-Libraries and frameworks are not programming languages; they are are just code written using existing languages.
-
-## Why do we use frameworks and libraries?
-
-They can help us by:
+Frameworks and libraries are vital tools in software development. They leverage pre-written code to help accomplish common tasks without having to start from that work from scratch. They can help us by:
 
 - Simplifying complex tasks by *abstracting* them. This boosts developer productivity and development speed.
 - Many frameworks and libraries are widely used and have been tested by many other developers. This typically means that they're more reliable than custom-coded solutions.
@@ -20,7 +14,9 @@ These are just a few examples of the benefits. While it's possible to build full
 
 > 📚 *Abstraction* is the process of hiding technical complexity and details not fully relevant to solving a given problem. It allows programmers to interact with complex systems at a simplified level without having to understand the underlying details.
 
-## The differences between frameworks and libraries
+Libraries and frameworks are not programming languages; they are are just code written using existing languages.
+
+### The differences between frameworks and libraries
 
 Frameworks and libraries are similar but do differ in key ways. Libraries handle specific tasks - like working with dates, formatting strings, and presenting UI elements. They don't enforce how the overall application is structured or behaves.
 
@@ -28,19 +24,17 @@ Frameworks provide a foundation on which you build and organize your application
 
 This analogy from [freeCodeCamp](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/) may further your understanding:
 
-> A library is like going to IKEA. You already have a home, but you need a bit of help with furniture. You don't feel like making your table from scratch. IKEA allows you to pick and choose different things to go in your home. You are in control.
+>A library is like going to IKEA. You already have a home, but you need a bit of help with furniture. You don't feel like making your table from scratch. IKEA allows you to pick and choose different things to go in your home. You are in control.
 >
 > A framework, on the other hand, is like building a model home. You have a set of blueprints and a few limited choices when it comes to architecture and design. Ultimately, the contractor and blueprint are in control. And they will let you know when and where you can provide your input.
 
-tktk Hunter, it'd be good if we had an asset here since we're lifting this from freeCodeCamp so that we have a GA contribution to this.
-
 ## The differences between different types of frameworks
 
-Frameworks tend to come in one of two distinct varieties: opinionated and unopinionated.
+There are many different types of frameworks, but they can be broadly categorized into two groups: opinionated and unopinionated.
 
 ### Opinionated
 
-Opinionated frameworks encourage or even enforce a particular way of doing things. Put another way, they prefer ***conventions*** over ***configuration***. This has a few pros and cons.
+Opinionated frameworks encourage or even enforce a particular way of doing things perscribed by the framework. Put another way, they prefer ***conventions*** over ***configuration***. This has a few pros and cons.
 
 #### Pros
 
@@ -56,7 +50,7 @@ Opinionated frameworks encourage or even enforce a particular way of doing thing
 
 ### Unopinionated
 
-Unopinionated frameworks invert the patterns of opinionated frameworks.
+Unopinionated frameworks are the opposite of opinionated frameworks and allow developers more freedom in their projects. Since these frameworks are the inverse of opionated they prefer ***configuration*** over ***convention***. Once again this has a few pros and cons.
 
 #### Pros
 

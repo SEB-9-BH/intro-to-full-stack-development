@@ -24,7 +24,12 @@ Node.js and Express.js are highly scalable and capable of handling many concurre
 
 ### The MERN stack
 
-The MERN stack is very similar to the MEN stack, but it adds [React](https://react.dev/) to handle composing a user interface.
+The MERN stack is very similar to the MEN stack, but it adds React to handle composing a user interface.
+
+- **MongoDB**
+- **Express.js**
+- **Node.js**
+- **[React](https://react.dev/)**
 
 React is a front-end framework known for its component-based architecture. Web developers use React to build user interfaces that are reusable, maintainable, fast, and responsive.
 
@@ -32,12 +37,12 @@ React is a front-end framework known for its component-based architecture. Web d
 
 This stack is made up of the following technologies:
 
-- **Python**: a general-purpose programming language.
-- **Django**: a Python web framework.
-- **PostgreSQL**: A relational database management system.
+- **[Python](https://docs.python.org/3/)**
+- **[Django](https://docs.djangoproject.com/en/5.0/)**
+- **[PostgreSQL](https://www.postgresql.org/docs/)**
 
 Python is one of the most widely used technologies by developers, and Django is the most commonly used framework for building web applications in Python. Postgres is one of the most popular relational databases in the world. This stack is similar to the MEN stack. Here's how the technologies match up:
 
-- JavaScript -> Python: the programming language
-- Express -> Django: the framework, used to make building the application easier
-- MongoDB -> PostgreSQL: the database, used to store application data
+- **JavaScript** -> **Python**: the programming language
+- **Express** -> **Django**: the framework, used to make building the application easier
+- **MongoDB** -> **PostgreSQL**: the database, used to store application data
