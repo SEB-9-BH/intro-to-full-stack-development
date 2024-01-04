@@ -28,6 +28,8 @@ This analogy from [freeCodeCamp](https://www.freecodecamp.org/news/the-differenc
 >
 > A framework, on the other hand, is like building a model home. You have a set of blueprints and a few limited choices regarding architecture and design. Ultimately, the contractor and blueprint are in control. And they will let you know when and where you can provide your input.
 
+tktk Hunter, it'd be good if we had an asset here since we're lifting this from freeCodeCamp so that we have a GA contribution to this.
+
 ## The differences between different types of frameworks
 
 There are many different types of frameworks, but they can be broadly categorized into two groups: opinionated and unopinionated.
