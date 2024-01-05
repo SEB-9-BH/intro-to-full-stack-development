@@ -2,23 +2,22 @@
 
 ## About
 
-This module introduces full stack development. It covers client/server architecture, components of a full stack, and common stacks used in modern web development.
+This module provides a comprehensive introduction to Full-Stack Web Development. This series of lessons is designed to provide you with a deep understanding of the essential components and architecture of full-stack web applications. Throughout this module, you'll gain a range of skills crucial for modern web development, starting from the foundational concepts to the intricate details of client-server interactions and the utilization of various frameworks and libraries.
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+None
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Client/Server Architecture and Full-Stack Development](./client-server-architecture-and-full-stack-development/README.md) | -- | -- | The system design pattern that powers the web.                         |
-| [Frameworks and Libraries](./frameworks-and-libraries/README.md)                                                           | -- | -- | Frameworks, libraries, and the differences between them.               |
-| [The Building Blocks of Full Stack Web Apps](./the-building-blocks-of-full-stack-web-apps/README.md)                       | -- | -- | The three components of full stack: front end, back end, and database. |
-| [Common Stacks Used in Modern Web Development](./common-stacks-in-modern-web-dev/README.md)                                | -- | -- | Explore the most popular web development stacks used today.            |
-| **Total content**                                                                                                          | -- | -- |                                                                        |
+| [Concepts](./concepts/README.md) | -- | -- | Understanding the basics of full stack development |
+| [Client/Server Architecture](./client-server-architecture/README.md) | -- | -- | Defining the client-server model in web applications |
+| [The Building Blocks of Full-Stack Web Apps](./the-building-blocks-of-full-stack-web-apps/README.md) | -- | -- | Understanding Full-Stack: The Frontend, Backend, and Data |
+| [Frameworks and Libraries](./frameworks-and-libraries/README.md) | -- | -- | Differentiating frameworks and libraries |
+| [Common Stacks Used in Modern Web Development](./common-stacks-in-modern-web-dev/README.md) | -- | -- | Exploring prevalent web development stacks and their applications |
+| **Total content** | -- | -- |  |
 
 ## References
 
