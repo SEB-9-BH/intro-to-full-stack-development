@@ -6,16 +6,19 @@
 
 The front-end of a web application is the part that users interact with directly. It displays the user interface, handles user input, and, if necessary, communicates with a back-end via a *request*.
 
-Browsers natively handle HTML, CSS, and JavaScript code.
+Browsers natively support HTML, CSS, and JavaScript, which are the core technologies of front-end development.
 
-**HTML** defines a web page's structure of the web page, **CSS** adds styles to the web page, and **JavaScript** adds interactivity.
+- **Key Technologies**:
+  - **HTML**: Structures the web page.
+  - **CSS**: Styles the web page.
+  - **JavaScript**: Adds interactivity to the web page.
 
-Several frameworks and libraries exist to help construct front-end web applications, such as:
+- **Popular Tools**: Frameworks and libraries that assist in front-end development include:
+  - Angular
+  - Vue.js
+  - React
+  - jQuery
 
-- Angular
-- Vue.js
-- React
-- jQuery.
 
 ![Common front-end technologies](./assets/originals/frontend.png)
 
@@ -23,30 +26,29 @@ tktk hunter -- also stole this from mongodb site. it may not be necessary but id
 
 ## Back-end
 
-A back-end system handles the behind-the-scenes functionality of a web application.
+The back-end is the behind-the-scenes functionality of a web application. It processes user requests, applies business logic, and sends data back to the front-end via a *response*.
 
-The back-end processes user requests, makes decisions based on *business logic*, and determines the data that should be sent to the front-end via a *response*.
+- **Key Responsibilities**:
+  - Manages *business logic* like calculating costs, applying discounts, and updating inventory.
+  - Ensures security for sensitive data and transactions.
+  - Handles user authentication and database communication.
 
-> 📚 *Business logic* is the part of an application's behavior that accounts for real-world business rules.
->
-> Using an e-commerce application as an example, the business logic may include:
->
-> - Rules for calculating the total cost of items in a shopping cart.
-> - Applying any discounts.
-> - Handling inventory stock updates.
+- **Popular Languages**:
+  - JavaScript (Node.js)
+  - Python
+  - Ruby
+  - Java
+  - C#
+  - PHP
 
-The most crucial reason to handle these tasks on the back-end is security - doing this work there means that users cannot easily see or tamper with them. This is crucial for personal data, financial transactions, or sensitive business operations.
+- **Popular Tools**: Frameworks and libraries for back-end development include:
+  - Express.js (JavaScript)
+  - Flask (Python)
+  - Java Spring (Java)
+  - ASP.NET Core (C#)
 
-Beyond this, the back-end handles user authentication, communicates with other systems, including the database, and more.
+> 📚 *Business logic* refers to the application behavior that reflects real-world business rules. For instance, in an e-commerce app, it includes calculating shopping cart totals, applying discounts, and handling inventory.
 
-Common back-end languages used in web development include JavaScript (executed by Node.js), Python, Ruby, Java, C#, and PHP.
-
-Just like on the front-end, several frameworks and libraries can be used to help construct back-end web applications, such as:
-
-- Express.js (JavaScript)
-- Flask (Python)
-- Java Spring (Java)
-- ASP.NET Core (C#)
 
 ![Common back-end technologies](assets/originals/backend.png)
 
@@ -58,32 +60,48 @@ The data related to an application is persisted in a database. Certain kinds of 
 
 Many database technologies are available, but some of the most popular are MongoDB, PostgreSQL, Oracle, and MySQL. Each of these has strengths and weaknesses.
 
-### The two types of databases
+### Two types of databases
 
 There are two main types of databases: **relational databases** and **non-relational databases**.
 
-**Relational databases** store data in tables of rows and columns. Each row represents a single record, and each column represents a single attribute of that record.
+- **Relational Databases**:
+  - **How they store data**: In tables with rows and columns. Each row represents a single record, and each column represents a single attribute of that record.
+  - **Use**: Widely used across various applications.
+  - **Examples**: MySQL, PostgreSQL
 
-Relational databases are the most common type of databases and are used by a wide variety of applications. MySQL and PostgreSQL are examples of relational databases.
+- **Non-Relational Databases**:
+  - **How they store data**: In various formats such as documents, key-value pairs, and graphs.
+  - **Use**: Suitable for applications with large amounts of unstructured data.
+  - **Examples**: MongoDB
 
-**Non-relational databases** store data in various formats, such as documents, key-value pairs, and graphs.
+Relational databases are the most traditional and common, while non-relational databases offer flexible data models for specific use cases.
 
-Non-relational databases are often used for applications that store and retrieve large amounts of unstructured data. MongoDB is an example of a non-relational database.
 
 ### How the three components work together
 
-A full-stack web application's front-end, back-end, and database create a complete user experience. Let's bring it all together with an example.
+In a full-stack web application, the front-end, back-end, and database work together to provide a complete user experience. 
 
-We have a simple website that is used to create and store recipes. As a user of this application, I can create a recipe and view all the recipes I have created.
+Let's bring it all together with an example.
 
-The application's front-end presents a user-friendly form enabling recipe creation and displaying a comprehensive list of all user-generated recipes in the browser. Additionally, it manages user input, generating a *request* to the back-end upon form submission.
+A recipe creation website.
 
-The application's back-end receives and processes *requests* from the front-end. These *request*s are used to create, read, update, and delete (CRUD) data in the database. The back-end also generates a *response* to the front-end containing the requested data, a success or failure message, or any other information the front-end may need.
+  - **Front-End**: 
+    - Presents a user interface for creating and viewing recipes.
+    - Handles user input and sends *requests* to the back-end.
 
-The database is responsible for storing the data that the application needs to function. In this case, the database stores the recipes that the user has created. In other instances, databases can track the relationships between entities, store user information, and much more.
+  - **Back-End**: 
+    - Processes *requests* from the front-end.
+    - Performs create, read, update, and delete (CRUD) operations on the database.
+    - Sends *responses* back to the front-end.
 
-tktk Hunter: could use a diagram like the following, but more generic that only shows server and db without the driver, terminal, and database partitions:
+  - **Database**: 
+    - Stores data, such as user-created recipes.
+    - Can also track relationships and store user information.
+
+This example illustrates how each component plays a crucial role in the functioning of a web application, working in unison to create, manage, and display data.
+
+tktk Hunter: could use a diagram like the following, but more generic that only shows server and db without the driver, terminal, and database partitions: 
 
 ![here](https://git.generalassemb.ly/Software-Engineering-Immersive-Remote/SEIR-Ewoks/blob/master/unit_2/w04d04/instructor_notes/Client_Server.png)
 
-> 📚 *Request and Response* are the names of two objects in the JavaScript language. These objects are used to represent the data that is sent between the front-end and back-end of an application. These objects have predefined values and methods that make it easy to send and receive data between the front-end and back-end of an application. Read further on the Request Object [here](https://developer.mozilla.org/en-US/docs/Web/API/Request) and the Response Object [here](https://developer.mozilla.org/en-US/docs/Web/API/Response).
+> 📚 In web development with JavaScript, the *Request* and *Response* objects are part of the Fetch API. These objects represent the data sent between the front-end and back-end of an application. They come with predefined methods and properties that simplify the process of making network requests and handling server responses. Learn more about the [Request Object](https://developer.mozilla.org/en-US/docs/Web/API/Request) and the [Response Object](https://developer.mozilla.org/en-US/docs/Web/API/Response) on MDN Web Docs.

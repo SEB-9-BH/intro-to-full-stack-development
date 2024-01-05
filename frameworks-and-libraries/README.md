@@ -1,6 +1,6 @@
 # ![Intro to Full Stack Development - Frameworks and Libraries](./assets/hero.png)
 
-**Learning objective:** 
+**Learning objective:** By the end of this lesson, students will be able to distinguish between frameworks and libraries in software development, understand roles and benefits, and recognize the differences between opinionated and unopinionated frameworks.
 
 ## What are frameworks and libraries?
 
