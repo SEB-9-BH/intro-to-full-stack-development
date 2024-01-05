@@ -27,7 +27,7 @@ The MERN stack, similar to the MEN stack, includes React for building user inter
 
 - **MongoDB**
 - **Express.js**
-- **[React](https://react.dev/)**: A front-end framework known for its component-based architecture, used for creating reusable, maintainable, and responsive user interfaces.
+- **[React](https://react.dev/)**: A front-end library known for its component-based architecture, used for creating reusable, maintainable, and responsive user interfaces.
 - **Node.js**
 
 React adds a robust front-end development capability to the stack, allowing web developers to build interactive and efficient user interfaces.
