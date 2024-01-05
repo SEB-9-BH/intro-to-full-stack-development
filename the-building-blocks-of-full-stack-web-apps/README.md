@@ -65,7 +65,7 @@ There are two main types of databases: **relational databases** and **non-relati
 - **Relational Databases**:
   - **How they store data**: In tables with rows and columns. Each row represents a single record, and each column represents a single attribute of that record.
   - **Use**: Widely used across various applications.
-  - **Examples**: MySQL, PostgreSQL
+  - **Examples**: MySQL, PostgreSQL, Oracle
 
 - **Non-Relational Databases**:
   - **How they store data**: In various formats such as documents, key-value pairs, and graphs.

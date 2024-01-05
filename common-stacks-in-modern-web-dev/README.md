@@ -41,7 +41,9 @@ This stack is made up of the following technologies:
 - **[Django](https://docs.djangoproject.com/en/5.0/)**
 - **[PostgreSQL](https://www.postgresql.org/docs/)**
 
-Python is one of developers' most widely used technologies, and Django is the most commonly used framework for building web applications in Python. Postgres is one of the most popular relational databases in the world. This stack is similar to the MEN stack. Here's how the technologies match up:
+Python is one of developers' most widely used technologies, and Django is the most commonly used framework for building web applications in Python. Postgres is one of the most popular relational databases in the world. This stack is similar to the MEN stack. 
+
+Here's how the technologies match up:
 
 - **JavaScript** -> **Python**: the programming language
 - **Express** -> **Django**: the framework used to make building the application easier
