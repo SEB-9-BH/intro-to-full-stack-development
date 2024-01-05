@@ -14,8 +14,8 @@ None
 | ------ |:----------:|:-----:| ------ |
 | [Concepts](./concepts/README.md) | -- | -- | Understanding the basics of full stack development |
 | [Client/Server Architecture](./client-server-architecture/README.md) | -- | -- | Defining the client-server model in web applications |
-| [Frameworks and Libraries](./frameworks-and-libraries/README.md) | -- | -- | Differentiating frameworks and libraries |
 | [The Building Blocks of Full-Stack Web Apps](./the-building-blocks-of-full-stack-web-apps/README.md) | -- | -- | Understanding Full-Stack: The Frontend, Backend, and Data |
+| [Frameworks and Libraries](./frameworks-and-libraries/README.md) | -- | -- | Differentiating frameworks and libraries |
 | [Common Stacks Used in Modern Web Development](./common-stacks-in-modern-web-dev/README.md) | -- | -- | Exploring prevalent web development stacks and their applications |
 | **Total content** | -- | -- |  |
 
