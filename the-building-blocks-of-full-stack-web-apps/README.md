@@ -19,7 +19,6 @@ Browsers natively support HTML, CSS, and JavaScript, which are the core technolo
   - React
   - jQuery
 
-
 ![Common front-end technologies](./assets/originals/frontend.png)
 
 tktk hunter -- also stole this from mongodb site. it may not be necessary but idk i kinda like it if you wanna redo it. (could you include some frameworks in here too)
@@ -48,7 +47,6 @@ The back-end is the behind-the-scenes functionality of a web application. It pro
   - ASP.NET Core (C#)
 
 > 📚 *Business logic* refers to the application behavior that reflects real-world business rules. For instance, in an e-commerce app, it includes calculating shopping cart totals, applying discounts, and handling inventory.
-
 
 ![Common back-end technologies](assets/originals/backend.png)
 
@@ -85,18 +83,18 @@ Let's bring it all together with an example.
 
 A recipe creation website.
 
-  - **Front-End**: 
-    - Presents a user interface for creating and viewing recipes.
-    - Handles user input and sends *requests* to the back-end.
+- **Front-End**: 
+  - Presents a user interface for creating and viewing recipes.
+  - Handles user input and sends *requests* to the back-end.
 
-  - **Back-End**: 
-    - Processes *requests* from the front-end.
-    - Performs create, read, update, and delete (CRUD) operations on the database.
-    - Sends *responses* back to the front-end.
+- **Back-End**: 
+  - Processes *requests* from the front-end.
+  - Performs create, read, update, and delete (CRUD) operations on the database.
+  - Sends *responses* back to the front-end.
 
-  - **Database**: 
-    - Stores data, such as user-created recipes.
-    - Can also track relationships and store user information.
+- **Database**: 
+  - Stores data, such as user-created recipes.
+  - Can also track relationships and store user information.
 
 This example illustrates how each component plays a crucial role in the functioning of a web application, working in unison to create, manage, and display data.
 
