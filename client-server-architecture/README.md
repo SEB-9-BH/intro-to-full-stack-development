@@ -18,7 +18,7 @@ In web development, 'client' and 'server' describe the functions of different so
 
 > 🧠 The term ***services*** is broad and encompasses various actions a server might perform in response to the client's requests, such as retrieving the correct webpage, processing data, or performing specific tasks.
 
-## Request and response cycle
+### Request and response cycle
 
 We refer to this client/server exchange as the *request-response cycle*. For example, when you type a URL into your browser and hit enter, here’s what happens:
 
@@ -28,13 +28,14 @@ We refer to this client/server exchange as the *request-response cycle*. For exa
 4. The web *server* sends a *response* to the *client*.
 5. The browser (the *client*) receives the *response* and displays the website to the user. The *request-response cycle* has concluded.
 
-### Why Does This Matter for Full-Stack Developers?
+## Why Does This Matter for Full-Stack Developers?
 
-As a full-stack developer, you'll be working with both the **front end** (what the user interacts with) and the **back end** (where data is processed and stored). Understanding client/server distinction is crucial for many reasons:
+As a full-stack developer, you'll be working with both the **front end** (what the user interacts with) and the **back end** (where data is processed and stored). Understanding client/server distinction is important for many reasons:
 
-  - During development, you'll be sending requests from your local **client** (like a browser or a testing tool) to your local **server**, mimicking the real-world process.
   - You'll often set up a **server** on your own computer for development and testing. This allows you to run and test your website as if it were live on the internet.
-  - Knowing how the client and server communicate helps you build more efficient and user-friendly websites.
+  - During development, you'll be sending requests from your local **client** (like a browser or a testing tool) to your local **server**, mimicking the real-world process.
+  - This clear separation aids students in understanding where and how different parts of a web application are executed.
+  - Understanding whether an issue originates from the client or the server side can greatly streamline the debugging process. 
 
 Remember, in this context, we're focusing on the software part of clients and servers, not the physical devices.
 
