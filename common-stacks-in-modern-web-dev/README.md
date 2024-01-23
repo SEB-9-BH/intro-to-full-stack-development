@@ -2,8 +2,6 @@
 
 **Learning objective:** By the end of this lesson, students will know about some of the most popular web development stacks used today.
 
-tktk Hunter, This microlesson could really use some visual interest, but I'm unsure what should go in here.
-
 ## What is a stack?
 
 A web development stack combines programming languages, large libraries/frameworks, and databases that store application data.
@@ -11,6 +9,8 @@ A web development stack combines programming languages, large libraries/framewor
 There are a lot of stacks available, but some common ones are the **MEN stack**, the **MERN stack**, and **Python, Django, and Postgres**.
 
 ### The MEN Stack
+
+![MEN Stack](./assets/men-stack.png)
 
 The MEN stack combines:
 
@@ -20,8 +20,9 @@ The MEN stack combines:
 
 Node.js and Express.js together offer high scalability for handling numerous users and requests. This stack is particularly friendly for JavaScript developers, as it allows them to use their existing JavaScript knowledge for server-side development, making the learning curve smoother. MongoDB complements this by handling data persistence.
 
-
 ### The MERN Stack
+
+![MERN Stack](./assets/mern-stack.png)
 
 The MERN stack, similar to the MEN stack, includes React for building user interfaces. It includes:
 
@@ -34,6 +35,8 @@ React adds a robust front-end development capability to the stack, allowing web 
 
 
 ### Python, Django, and Postgres Stack
+
+![Python Django Postgres](./assets/python-django-postgres.png)
 
 This stack comprises key technologies for web application development:
 

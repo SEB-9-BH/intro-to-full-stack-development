@@ -19,9 +19,7 @@ Browsers natively support HTML, CSS, and JavaScript, which are the core technolo
   - React
   - jQuery
 
-![Common front-end technologies](./assets/originals/frontend.png)
-
-tktk hunter -- also stole this from mongodb site. it may not be necessary but idk i kinda like it if you wanna redo it. (could you include some frameworks in here too)
+![Common front-end technologies](./assets/front-end-tech.png)
 
 ## Back-end
 
@@ -48,9 +46,7 @@ The back-end is the behind-the-scenes functionality of a web application. It pro
 
 > 📚 *Business logic* refers to the application behavior that reflects real-world business rules. For instance, in an e-commerce app, it includes calculating shopping cart totals, applying discounts, and handling inventory.
 
-![Common back-end technologies](assets/originals/backend.png)
-
-tktk hunter - same as above
+![Common back-end technologies](./assets/back-end-tech.png)
 
 ## Database
 
@@ -73,7 +69,6 @@ There are two main types of databases: **relational databases** and **non-relati
   - **Examples**: MongoDB
 
 Relational databases are the most traditional and common, while non-relational databases offer flexible data models for specific use cases.
-
 
 ### How the three components work together
 
@@ -98,8 +93,6 @@ A recipe creation website.
 
 This example illustrates how each component plays a crucial role in the functioning of a web application, working in unison to create, manage, and display data.
 
-tktk Hunter: could use a diagram like the following, but more generic that only shows server and db without the driver, terminal, and database partitions: 
-
-![here](https://git.generalassemb.ly/Software-Engineering-Immersive-Remote/SEIR-Ewoks/blob/master/unit_2/w04d04/instructor_notes/Client_Server.png)
+![The building blocks of full stack web apps](./assets/the-building-blocks.png)
 
 > 📚 In web development with JavaScript, the *Request* and *Response* objects are part of the Fetch API. These objects represent the data sent between the front-end and back-end of an application. They come with predefined methods and properties that simplify the process of making network requests and handling server responses. Learn more about the [Request Object](https://developer.mozilla.org/en-US/docs/Web/API/Request) and the [Response Object](https://developer.mozilla.org/en-US/docs/Web/API/Response) on MDN Web Docs.

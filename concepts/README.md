@@ -14,12 +14,10 @@ Front-end development is all about what the user experiences directly in their w
 
 Back-end development, on the other hand, operates behind the scenes. It involves managing the server that hosts the website, as well as the application's data and logic. Back-end developers work on server-side programming, ensuring that data is processed correctly and the appropriate responses are sent back to the front end. They commonly use languages and technologies like Node.js, Ruby on Rails, Python, and databases such as MySQL, PostgreSQL, and MongoDB.
 
-![Full stack development end to end workflow](./assets/originals/full-stack-mongodb.png)
-tktk hunter -- i stole this asset from the mongodb, but i think it's helpful.
+![Full stack development end to end workflow](./assets/full-stack-dev.png)
 
 ### The role of a full stack developer
 
 A full-stack developer has the skills to work on both the front-end and back-end of a web application. This comprehensive skill set allows them to build user interfaces, write server-side code, and manage databases. Being versed in the entire spectrum of web development makes full-stack developers highly versatile and valuable in the tech industry.
 
 Full-stack development encompasses the entire process of building a web application: from the user interface design to server-side programming and database management.
-
