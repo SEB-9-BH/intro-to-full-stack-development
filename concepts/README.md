@@ -21,3 +21,12 @@ Back-end development, on the other hand, operates behind the scenes. It involves
 A full-stack developer has the skills to work on both the front-end and back-end of a web application. This comprehensive skill set allows them to build user interfaces, write server-side code, and manage databases. Being versed in the entire spectrum of web development makes full-stack developers highly versatile and valuable in the tech industry.
 
 Full-stack development encompasses the entire process of building a web application: from the user interface design to server-side programming and database management.
+
+## Why full-stack development?
+
+Full-stack development adds a layer of security and reliability to applications because code running in a back-end application is more controlled than code running in a front-end. This is because users can see and change front-end behavior on their own devices. In contract, they cannot see the code or observe the behavior of a back-end application.
+
+Therefore, when we need to carry out actions that we need to place more trust in, such as interacting with a database or handling user authentication, we handle those tasks from the back-end. Beyond this, full-stack applications have a couple of other benefits:
+
+- **Build once - serve many apps**: A single back-end application can serve many different front-end applications. For example, you might use the same back-end app to interact with a front-end web app and a front-end mobile app.
+- **Performance**: A back-end application is likely running on a more powerful device than a front-end application, meaning more intense operations can be offloaded to it.
