@@ -1,14 +1,14 @@
-# ![Intro to Full Stack Development - Client/Server Architecture](./assets/hero.png)
+# ![Intro to Full-Stack Development - Client/Server Architecture](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, learners will be able to explain the roles of client and server software in web development, understand their interaction through the request-response cycle, and recognize the importance of this architecture in full-stack development.
 
 ## Client/Server architecture
 
+![A client browser making a request to a server and getting back a response](./assets/client-server-architecture.png)
+
 In everyday conversation, the terms *client* and *server* are often used to describe physical devices. Typically, when people hear 'server', they imagine a large, powerful computer housed in a data center. Similarly, the term 'client' is commonly associated with personal devices, like laptops and smartphones. However, in the context of web development, these terms have a different meaning.
 
 > 📚 As a developer, it's important to understand that the terms ***client*** and ***server*** refer to ***roles played by software***, not just physical devices. 
-
-![client server architecture](./assets/originals/client-server-architecture.png) tktk hunter - *see note below
 
 In web development, 'client' and 'server' describe the functions of different software processes. Understanding the interaction between the client and the server is fundamental. Let's break it down into simpler terms:
 
@@ -22,13 +22,15 @@ In web development, 'client' and 'server' describe the functions of different so
 
 We refer to this client/server exchange as the *request-response cycle*. For example, when you type a URL into your browser and hit enter, here’s what happens:
 
+![Steps of the request and response cycle](./assets/request-and-response-cycle-steps.png)
+
 1. A user navigates to a website in their browser by typing a URL.
 2. The browser (the *client* software) creates and sends a *request* to the appropriate web *server* (the *server* software).
 3. The web *server* receives the request and acts. In this case, it should respond with HTML.
 4. The web *server* sends a *response* to the *client*.
 5. The browser (the *client*) receives the *response* and displays the website to the user. The *request-response cycle* has concluded.
 
-## Why Does This Matter for Full-Stack Developers?
+## Why does this matter for full-stack developers?
 
 As a full-stack developer, you'll be working with both the **front end** (what the user interacts with) and the **back end** (where data is processed and stored). Understanding client/server distinction is important for many reasons:
 
@@ -38,6 +40,3 @@ As a full-stack developer, you'll be working with both the **front end** (what t
   - Understanding whether an issue originates from the client or the server side can greatly streamline the debugging process. 
 
 Remember, in this context, we're focusing on the software part of clients and servers, not the physical devices.
-
-
-*tktk Hunter, get with me (David) on a graphic for all of this. I have a couple of ideas, but I'm not sure how much is too much here, and it may be worth having multiple graphics. If we go in this direction, we should also reconsider other graphics that paint client/server as physical devices and reconceptualize those graphics in terms of pieces of software interacting with one another.
