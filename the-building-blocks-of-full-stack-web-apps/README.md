@@ -1,4 +1,4 @@
-# ![Intro to Full Stack Development - The Building Blocks of Full Stack Web Apps](./assets/hero.png)
+# ![Intro to Full-Stack Development - The Building Blocks of Full Stack Web Apps](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to define the three components of a full stack: front-end, back-end, and database.
 
@@ -19,7 +19,7 @@ Browsers natively support HTML, CSS, and JavaScript, which are the core technolo
   - React
   - jQuery
 
-![Common front-end technologies](./assets/front-end-tech.png)
+![A list of common front-end technologies](./assets/front-end-tech.png)
 
 ## Back-end
 
@@ -46,7 +46,7 @@ The back-end is the behind-the-scenes functionality of a web application. It pro
 
 > 📚 *Business logic* refers to the application behavior that reflects real-world business rules. For instance, in an e-commerce app, it includes calculating shopping cart totals, applying discounts, and handling inventory.
 
-![Common back-end technologies](./assets/back-end-tech.png)
+![A list of common back-end technologies](./assets/back-end-tech.png)
 
 ## Database
 
@@ -93,6 +93,6 @@ A recipe creation website.
 
 This example illustrates how each component plays a crucial role in the functioning of a web application, working in unison to create, manage, and display data.
 
-![The building blocks of full stack web apps](./assets/the-building-blocks.png)
+![Communication between a client, server, and database](./assets/the-building-blocks.png)
 
 > 📚 In web development with JavaScript, the *Request* and *Response* objects are part of the Fetch API. These objects represent the data sent between the front-end and back-end of an application. They come with predefined methods and properties that simplify the process of making network requests and handling server responses. Learn more about the [Request Object](https://developer.mozilla.org/en-US/docs/Web/API/Request) and the [Response Object](https://developer.mozilla.org/en-US/docs/Web/API/Response) on MDN Web Docs.

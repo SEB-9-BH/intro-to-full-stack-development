@@ -1,4 +1,4 @@
-# ![Intro to Full Stack Web Development - References](./assets/hero.png)
+# ![Intro to Full-Stack Development - References](./assets/hero.png)
 
 ## Lesson references
 

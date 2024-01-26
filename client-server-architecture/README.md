@@ -1,10 +1,10 @@
-# ![Intro to Full Stack Development - Client/Server Architecture](./assets/hero.png)
+# ![Intro to Full-Stack Development - Client/Server Architecture](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, learners will be able to explain the roles of client and server software in web development, understand their interaction through the request-response cycle, and recognize the importance of this architecture in full-stack development.
 
 ## Client/Server architecture
 
-![Client server architecture](./assets/client-server-architecture.png)
+![A client browser making a request to a server and getting back a response](./assets/client-server-architecture.png)
 
 In everyday conversation, the terms *client* and *server* are often used to describe physical devices. Typically, when people hear 'server', they imagine a large, powerful computer housed in a data center. Similarly, the term 'client' is commonly associated with personal devices, like laptops and smartphones. However, in the context of web development, these terms have a different meaning.
 

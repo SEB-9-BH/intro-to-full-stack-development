@@ -1,4 +1,4 @@
-# ![Intro to Full-Stack Development](../assets/tktk-hero.png)
+# ![Intro to Full-Stack Development](../assets/hero.png)
 
 ## About
 

@@ -1,8 +1,10 @@
-# ![Intro to Full Stack Development - Concepts](./assets/hero.png)
+# ![Intro to Full-Stack Development - Concepts](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to explain the distinction between front-end and back-end development.
 
 ## What is full-stack development?
+
+![Full stack development end to end workflow](./assets/the-building-blocks.png)
 
 [Full-stack development](https://www.mongodb.com/languages/full-stack-development) involves building and managing both the front-end (client side) and back-end (server side) of web applications.
 
@@ -13,8 +15,6 @@ Front-end development is all about what the user experiences directly in their w
 ### Back-end development
 
 Back-end development, on the other hand, operates behind the scenes. It involves managing the server that hosts the website, as well as the application's data and logic. Back-end developers work on server-side programming, ensuring that data is processed correctly and the appropriate responses are sent back to the front end. They commonly use languages and technologies like Node.js, Ruby on Rails, Python, and databases such as MySQL, PostgreSQL, and MongoDB.
-
-![Full stack development end to end workflow](./assets/full-stack-dev.png)
 
 ### The role of a full stack developer
 

@@ -1,10 +1,10 @@
-# ![Intro to Full Stack Development - Frameworks and Libraries](./assets/hero.png)
+# ![Intro to Full-Stack Development - Frameworks and Libraries](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to distinguish between frameworks and libraries in software development, understand roles and benefits, and recognize the differences between opinionated and unopinionated frameworks.
 
 ## What are frameworks and libraries?
 
-![Libraries vs Frameworks](./assets/library-vs-framework.png)
+![A library and a framework paire with their resulting applications](./assets/library-vs-framework.png)
 
 Frameworks and libraries are vital tools in software development. They leverage pre-written code to help accomplish common tasks without having to start that work from scratch. While they both aid in development, they serve different purposes:
 

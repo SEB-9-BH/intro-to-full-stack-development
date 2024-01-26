@@ -1,4 +1,4 @@
-# ![Intro to Full-Stack Development](./assets/tktk-hero.png)
+# ![Intro to Full-Stack Development](./assets/hero.png)
 
 ## About
 
@@ -16,7 +16,7 @@ None
 | [Client/Server Architecture](./client-server-architecture/README.md) | -- | -- | Defining the client-server model in web applications |
 | [The Building Blocks of Full-Stack Web Apps](./the-building-blocks-of-full-stack-web-apps/README.md) | -- | -- | Understanding Full-Stack: The Frontend, Backend, and Data |
 | [Frameworks and Libraries](./frameworks-and-libraries/README.md) | -- | -- | Differentiating frameworks and libraries |
-| [Common Stacks Used in Modern Web Development](./common-stacks-in-modern-web-dev/README.md) | -- | -- | Exploring prevalent web development stacks and their applications |
+| [Common Stacks Used in Web Development](./common-stacks-in-web-dev/README.md) | -- | -- | Exploring prevalent web development stacks and their applications |
 | **Total content** | -- | -- |  |
 
 ## References
