@@ -4,7 +4,7 @@
 
 ## What are frameworks and libraries?
 
-![A library and a framework paire with their resulting applications](./assets/library-vs-framework.png)
+![A library and a framework paired with their resulting applications](./assets/library-vs-framework.png)
 
 Frameworks and libraries are vital tools in software development. They leverage pre-written code to help accomplish common tasks without having to start that work from scratch. While they both aid in development, they serve different purposes:
 
