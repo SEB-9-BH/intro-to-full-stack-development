@@ -56,43 +56,41 @@ Many database technologies are available, but some of the most popular are Mongo
 
 ### Two types of databases
 
-There are two main types of databases: **relational databases** and **non-relational databases**.
+There are two main types of databases: ***relational databases*** and ***non-relational databases***.
 
 - **Relational Databases**:
-  - **How they store data**: In tables with rows and columns. Each row represents a single record, and each column represents a single attribute of that record.
+  - **How they store data**: In various formats, such as documents, key-value pairs, and graphs.
   - **Use**: Widely used across various applications.
   - **Examples**: MySQL, PostgreSQL, Oracle
 
 - **Non-Relational Databases**:
   - **How they store data**: In various formats such as documents, key-value pairs, and graphs.
   - **Use**: Suitable for applications with large amounts of unstructured data.
-  - **Examples**: MongoDB
+  - **Examples**: MongoDB, Redis, Elasticsearch
 
 Relational databases are the most traditional and common, while non-relational databases offer flexible data models for specific use cases.
 
 ### How the three components work together
 
-In a full-stack web application, the front-end, back-end, and database work together to provide a complete user experience. 
+![Communication between a client, server, and database](./assets/the-building-blocks.png)
+
+In a full-stack web application, the front-end, back-end, and database work together to provide a complete user experience.
 
 Let's bring it all together with an example.
 
 A recipe creation website.
 
-- **Front-End**: 
+- **Front-end**:
   - Presents a user interface for creating and viewing recipes.
   - Handles user input and sends *requests* to the back-end.
 
-- **Back-End**: 
-  - Processes *requests* from the front-end.
+- **Back-end**:
+  - Processes ***requests*** from the front-end.
   - Performs create, read, update, and delete (CRUD) operations on the database.
-  - Sends *responses* back to the front-end.
+  - Sends ***responses*** back to the front-end.
 
-- **Database**: 
-  - Stores data, such as user-created recipes.
-  - Can also track relationships and store user information.
+- **Database**:
+  - Stores data, such as user-created recipes and information about users.
+  - Tracks relationships between pieces of data (such as a recipe and comments on a recipe).
 
-This example illustrates how each component plays a crucial role in the functioning of a web application, working in unison to create, manage, and display data.
-
-![Communication between a client, server, and database](./assets/the-building-blocks.png)
-
-> 📚 In web development with JavaScript, the *Request* and *Response* objects are part of the Fetch API. These objects represent the data sent between the front-end and back-end of an application. They come with predefined methods and properties that simplify the process of making network requests and handling server responses. Learn more about the [Request Object](https://developer.mozilla.org/en-US/docs/Web/API/Request) and the [Response Object](https://developer.mozilla.org/en-US/docs/Web/API/Response) on MDN Web Docs.
+This example illustrates how each component plays a crucial role in the functioning of a web application, working in unison to interact with, persist, and display data.

@@ -14,25 +14,19 @@ There are a lot of stacks available, but some common ones are the **MEN stack**,
 
 The MEN stack combines:
 
-- **[MongoDB](https://www.mongodb.com/)**: A database for storing data.
-- **[Express.js](https://expressjs.com/)**: A Node.js web application framework that streamlines building web applications.
-- **[Node.js](https://nodejs.org/en)**: Executes JavaScript outside the browser, enabling server-side scripting.
+- **[MongoDB](https://www.mongodb.com/)**: A non-relational database for storing data.
+- **[Express.js](https://expressjs.com/)**: An unopionated Node.js web framework that streamlines building web applications.
+- **[Node.js](https://nodejs.org/)**: Executes JavaScript outside the browser, enabling server-side scripting.
 
-Node.js and Express.js together offer high scalability for handling numerous users and requests. This stack is particularly friendly for JavaScript developers, as it allows them to use their existing JavaScript knowledge for server-side development, making the learning curve smoother. MongoDB complements this by handling data persistence.
+Node.js and Express.js together offer high scalability for handling numerous users and requests. This stack is particularly friendly for JavaScript developers, allowing them to use their existing JavaScript knowledge for server-side development, making the learning curve smoother. MongoDB complements this by handling data persistence.
 
 ### The MERN Stack
 
 ![MERN stack technologies](./assets/mern-stack.png)
 
-The MERN stack, similar to the MEN stack, includes React for building user interfaces. It includes:
+The MERN stack builds on the technologies of the MEN stack and adds React for building user interfaces. React is a front-end library known for its component-based architecture, which helps create reusable, maintainable, and responsive user interfaces.
 
-- **MongoDB**
-- **Express.js**
-- **[React](https://react.dev/)**: A front-end library known for its component-based architecture, used for creating reusable, maintainable, and responsive user interfaces.
-- **Node.js**
-
-React adds a robust front-end development capability to the stack, allowing web developers to build interactive and efficient user interfaces.
-
+React adds robust front-end capabilities to the MEN stack, allowing web developers to build more interactive user interfaces.
 
 ### Python, Django, and Postgres Stack
 
@@ -40,14 +34,14 @@ React adds a robust front-end development capability to the stack, allowing web 
 
 This stack comprises key technologies for web application development:
 
-- **[Python](https://docs.python.org/3/)**: A versatile programming language favored by developers for its simplicity and readability.
-- **[Django](https://docs.djangoproject.com/en/5.0/)**: A highly popular Python framework for building web applications.
-- **[PostgreSQL](https://www.postgresql.org/docs/)**: A widely-used relational database management system known for its reliability.
+- **[Python](https://docs.python.org/3/)**: A versatile programming language developers favor for its simplicity and readability.
+- **[Django](https://docs.djangoproject.com/en/5.0/)**: A popular opinionated Python web framework.
+- **[PostgreSQL](https://www.postgresql.org/docs/)**: A widely-used, open-source relational database management system.
 
 Python offers a broad base for general programming, Django extends this with specific tools for web development, and PostgreSQL provides a solid database solution. Together, they form a stack similar in functionality to the MEN stack but with different technology choices.
 
 Here's how the technologies match up:
 
-- **JavaScript** -> **Python**: the programming language
-- **Express** -> **Django**: the framework used to make building the application easier
-- **MongoDB** -> **PostgreSQL**: the database, used to store application data
+- **JavaScript** -> **Python**: the programming language.
+- **Express** -> **Django**: the framework used to make building the application easier.
+- **MongoDB** -> **PostgreSQL**: the database, used to store application data.
