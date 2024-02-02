@@ -1,6 +1,6 @@
 # ![Intro to Full-Stack Development - Client/Server Architecture](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, learners will be able to explain the roles of client and server software in web development, understand their interaction through the request-response cycle, and recognize the importance of this architecture in full-stack development.
+**Learning objective:** By the end of this lesson, learners will be able to explain the roles of client and server software in web development, and recognize the importance of this architecture in full-stack development.
 
 ## Client/Server architecture
 
