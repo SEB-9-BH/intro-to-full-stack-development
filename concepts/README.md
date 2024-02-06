@@ -24,7 +24,7 @@ Full-stack development encompasses the entire process of building a web applicat
 
 ## Why full-stack development?
 
-Full-stack development adds a layer of security and reliability to applications because code running in a back-end application is more controlled than code running in a front-end. This is because users can see and change front-end behavior on their own devices. In contract, they cannot see the code or observe the behavior of a back-end application.
+Full-stack development adds a layer of security and reliability to applications because code running in a back-end application is more controlled than code running in a front-end. This is because users can see and change front-end behavior on their own devices. In contrast, they cannot see the code or observe the behavior of a back-end application.
 
 Therefore, when we need to carry out actions that we need to place more trust in, such as interacting with a database or handling user authentication, we handle those tasks from the back-end. Beyond this, full-stack applications have a couple of other benefits:
 
