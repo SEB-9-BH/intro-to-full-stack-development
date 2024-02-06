@@ -93,4 +93,4 @@ A recipe creation website.
   - Stores data, such as user-created recipes and information about users.
   - Tracks relationships between pieces of data (such as a recipe and comments on a recipe).
 
-This example illustrates how each component plays a crucial role in the functioning of a web application, working in unison to interact with, persist, and display data.
+This example illustrates how each component plays a crucial role in the functionality of a web application, working in unison to interact with, persist, and display data.
