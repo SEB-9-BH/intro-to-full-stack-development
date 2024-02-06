@@ -1,6 +1,6 @@
 # ![Intro to Full-Stack Development - Frameworks and Libraries](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to distinguish between frameworks and libraries in software development, understand roles and benefits, and recognize the differences between opinionated and unopinionated frameworks.
+**Learning objective:** By the end of this lesson, students will be able to distinguish between frameworks and libraries in software development, understand their roles and benefits, and recognize the differences between opinionated and unopinionated frameworks.
 
 ## What are frameworks and libraries?
 
@@ -40,10 +40,10 @@ There are many different types of frameworks, but they can be broadly categorize
 
 ### Opinionated
 
-Opinionated frameworks encourage or enforce a particular way of doing things the framework prescribes. Put another way, they prefer ***conventions*** over ***configuration***. There are a few advantages to this approach.
+Opinionated frameworks encourage or enforce a particular way of doing things as dictated by the framework. Put another way, they prefer ***conventions*** over ***configuration***. There are a few advantages to this approach.
 
 - **Rapid development**: Setup and configuration are typically minimized. Apps can be built from the start with sensible defaults configured, making it easier to start a project.
-- **Consistency**: Developers have fewer decisions due to enforced conventions. This can make it easier for multiple developers to work together on teams or get onboarded to work more quickly.
+- **Consistency**: Developers have fewer decisions to make due to enforced conventions. This can make it easier for multiple developers to work together on teams or get onboarded to work more quickly.
 - **Best practices**: App configuration can be complicated and error-prone - opinionated frameworks try to do that work so you don't have to.
 - **Debugging**: Because there is less customization, developers are less likely to encounter unique errors.
 
@@ -57,8 +57,8 @@ Unopinionated frameworks are the opposite of opinionated frameworks, allowing de
 
 ### Trade-offs
 
-So which is better, unopinionated or opinionated frameworks? There's no straightforward answer to this because each exists to solve different kinds of problems, and the benefits of each come with trade-offs.
+So which are better, unopinionated or opinionated frameworks? There's no straightforward answer to this because each exists to solve different kinds of problems, and the benefits of each come with trade-offs.
 
-For example, when using an opinionated framework, developers must learn and follow a rigid structure prescribed by the framework. This makes the learning curve steeper but comes with the trade-off that code written by different developers with the same framework will be more consistent. Similarly, unopinionated frameworks allow for more customization, but that means more decisions have to be made, which can slow down meaningful development.
+For example, when using an opinionated framework, developers must learn and follow a rigid structure given by the framework. This makes the learning curve steeper but comes with the trade-off that code written by different developers with the same framework will be more consistent. Similarly, unopinionated frameworks allow for more customization, but that means more decisions have to be made, which can slow down meaningful development.
 
 Luckily, as a junior developer, it's unlikely you will make decisions about which of these to use to build applications in an organization, but beginning to understand the nuances between frameworks/libraries and opinionated/unopinionated frameworks will help you develop a deeper understanding of the differences between different tech stacks.

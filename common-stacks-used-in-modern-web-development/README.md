@@ -16,7 +16,7 @@ The MEN stack combines:
 
 - **[MongoDB](https://www.mongodb.com/)**: A non-relational database for storing data.
 - **[Express.js](https://expressjs.com/)**: An unopionated Node.js web framework that streamlines building web applications.
-- **[Node.js](https://nodejs.org/)**: Executes JavaScript outside the browser, enabling server-side scripting.
+- **[Node.js](https://nodejs.org/)**: Allows for the execution of JavaScript outside the browser, enabling server-side scripting.
 
 Node.js and Express.js together offer high scalability for handling numerous users and requests. This stack is particularly friendly for JavaScript developers, allowing them to use their existing JavaScript knowledge for server-side development, making the learning curve smoother. MongoDB complements this by handling data persistence.
 
@@ -26,19 +26,17 @@ Node.js and Express.js together offer high scalability for handling numerous use
 
 The MERN stack builds on the technologies of the MEN stack and adds React for building user interfaces. React is a front-end library known for its component-based architecture, which helps create reusable, maintainable, and responsive user interfaces.
 
-React adds robust front-end capabilities to the MEN stack, allowing web developers to build more interactive user interfaces.
-
 ### Python, Django, and Postgres Stack
 
 ![Python Django Postgres technologies](./assets/python-django-postgres.png)
 
-This stack comprises key technologies for web application development:
+This stack comprises:
 
 - **[Python](https://docs.python.org/3/)**: A versatile programming language developers favor for its simplicity and readability.
 - **[Django](https://docs.djangoproject.com/en/5.0/)**: A popular opinionated Python web framework.
 - **[PostgreSQL](https://www.postgresql.org/docs/)**: A widely-used, open-source relational database management system.
 
-Python offers a broad base for general programming, Django extends this with specific tools for web development, and PostgreSQL provides a solid database solution. Together, they form a stack similar in functionality to the MEN stack but with different technology choices.
+Python offers a broad base for general programming, Django extends this with specific tools for web development, and PostgreSQL is used as the database solution. Together, they form a stack similar in functionality to the MEN stack but with different technology choices.
 
 Here's how the technologies match up:
 
