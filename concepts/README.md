@@ -18,7 +18,7 @@ Back-end development, on the other hand, operates behind the scenes. It involves
 
 ### The role of a full-stack developer
 
-A full-stack developer has the skills to work on both the front-end and back-end of a web application. This comprehensive skill set allows them to build user interfaces, write server-side code, and manage databases. Being versed in the entire spectrum of web development makes full-stack developers highly versatile and valuable in the tech industry.
+A full-stack developer has the skills to work on both the front-end and back-end of a web application. This comprehensive skill set allows them to build user interfaces, write server-side code, and manage databases. Working in the entire spectrum of web development makes full-stack developers highly versatile and valuable in the tech industry.
 
 Full-stack development encompasses the entire process of building a web application: from the user interface design to server-side programming and database management.
 
