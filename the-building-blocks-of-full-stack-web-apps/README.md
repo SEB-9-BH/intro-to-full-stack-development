@@ -26,9 +26,9 @@ Browsers natively support HTML, CSS, and JavaScript, which are the core technolo
 The back-end is the behind-the-scenes functionality of a web application. It processes user requests, applies business logic, and sends data back to the front-end via a *response*.
 
 - **Key Responsibilities**:
-  - Manages *business logic* like calculating costs, applying discounts, and updating inventory.
   - Ensures security for sensitive data and transactions.
   - Handles user authentication and database communication.
+  - Manages *business logic* like calculating costs, applying discounts, and updating inventory.
 
 - **Popular Languages**:
   - JavaScript (Node.js)
@@ -82,7 +82,7 @@ A recipe creation website.
 
 - **Front-end**:
   - Presents a user interface for creating and viewing recipes.
-  - Handles user input and sends *requests* to the back-end.
+  - Handles user input and sends ***requests*** to the back-end.
 
 - **Back-end**:
   - Processes ***requests*** from the front-end.
