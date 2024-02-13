@@ -12,9 +12,9 @@ In web development, *client* and *server* describe the functions of different so
 
 - **Client Software:** The primary role of client software is to create requests for various *services*. For instance, when you want to visit a website, your browser (acting as the client) sends a request to fetch data from a webpage.
 
-- **Server Software:** The primary role of server software is to respond to requests for *services*. This operates at the other end of the client-server relationship. When your browser, acting as the client, requests a webpage, this request is handled by the server software. Although the physical server might be located in a remote data center, we focus on the capabilities of software, not physical machines.
+- **Server Software:** The primary role of server software is to respond to requests for *services*. This operates at the other end of the client-server relationship. When your browser, acting as the client, requests a webpage, this request i📚s handled by the server software. Although the physical server might be located in a remote data center, we focus on the capabilities of software, not physical machines.
 
-> 🧠 As a developer, it's essential to understand that the terms *client* and *server* refer to ***roles played by software***, not physical devices. The term ***services*** is broad and encompasses various actions a server might perform in response to the client's requests, such as retrieving the correct webpage, processing data, or performing specific tasks.
+> 📚 As a developer, it's essential to understand that the terms *client* and *server* refer to ***roles played by software***, not physical devices. The term ***services*** is broad and encompasses various actions a server might perform in response to the client's requests, such as retrieving the correct webpage, processing data, or performing specific tasks.
 
 ## Why does this matter for full-stack developers?
 
