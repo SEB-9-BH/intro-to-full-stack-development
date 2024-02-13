@@ -59,13 +59,13 @@ Many database technologies are available, but some of the most popular are Mongo
 There are two main types of databases: ***relational databases*** and ***non-relational databases***.
 
 - **Relational Databases**:
-  - **How they store data**: In various formats, such as documents, key-value pairs, and graphs.
-  - **Use**: Widely used across various applications.
+  - **How they store data**: In tables with rows and columns. Each row represents a single record, and each column represents a single attribute of that record.
+  - **Use**: Widely used across various applications. These database types are preferred when servicing apps that require a high volume of database transactions, such as banking.
   - **Examples**: MySQL, PostgreSQL, Oracle
 
 - **Non-Relational Databases**:
   - **How they store data**: In various formats such as documents, key-value pairs, and graphs.
-  - **Use**: Suitable for applications with large amounts of unstructured data.
+  - **Use**: Suitable for applications with large amounts of unstructured data or complex relationships between data.
   - **Examples**: MongoDB, Redis, Elasticsearch
 
 Relational databases are the most traditional and common, while non-relational databases offer flexible data models for specific use cases.
