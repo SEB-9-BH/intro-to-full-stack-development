@@ -21,7 +21,7 @@ In web development, *client* and *server* describe the functions of different so
 As a full-stack developer, you'll work with code running on the ***client*** (what the user interacts with in the front-end) and the ***server*** (on the back-end, which the user doesn't interact with directly). Understanding client/server distinction is important for many reasons:
 
 - During development, you'll be sending requests from your local **client** (like a browser or a testing tool) to your local **server**, mimicking the real-world process.
-- You'll often set up a **server** on your own computer for development and testing. This allows you to run and test your website as if it were live on the internet.
+- You'll often set up a **server** on your own computer for development and testing. This allows you to run and test your app as if it were live on the internet.
 - Understanding whether an issue originates from the client or the server side can greatly streamline the debugging process.
 - Having an appreciation for the roles of a both the client and server is essential for understanding how to construct well-architected applications.
 
