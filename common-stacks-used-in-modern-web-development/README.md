@@ -24,7 +24,7 @@ Node.js and Express.js together offer high scalability for handling numerous use
 
 ![MERN stack technologies](./assets/mern-stack.png)
 
-The MERN stack builds on the technologies of the MEN stack and adds React for building user interfaces. React is a front-end library known for its component-based architecture, which helps create reusable, maintainable, and responsive user interfaces.
+The MERN stack builds on the technologies of the MEN stack and adds [React](https://react.dev/) for building user interfaces. React is a front-end library known for its component-based architecture, which helps create reusable, maintainable, and responsive user interfaces.
 
 ### Python, Django, and Postgres Stack
 
@@ -32,9 +32,9 @@ The MERN stack builds on the technologies of the MEN stack and adds React for bu
 
 This stack comprises:
 
-- **[Python](https://docs.python.org/3/)**: A versatile programming language developers favor for its simplicity and readability.
-- **[Django](https://docs.djangoproject.com/en/5.0/)**: A popular opinionated Python web framework.
-- **[PostgreSQL](https://www.postgresql.org/docs/)**: A widely-used, open-source relational database management system.
+- **[Python](https://www.python.org/)**: A versatile programming language developers favor for its simplicity and readability.
+- **[Django](https://www.djangoproject.com/)**: A popular opinionated Python web framework.
+- **[PostgreSQL](https://www.postgresql.org/)**: A widely-used, open-source relational database management system.
 
 Python offers a broad base for general programming, Django extends this with specific tools for web development, and PostgreSQL is used as the database solution. Together, they form a stack similar in functionality to the MEN stack but with different technology choices.
 

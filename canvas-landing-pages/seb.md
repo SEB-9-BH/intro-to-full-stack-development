@@ -15,7 +15,7 @@ Throughout this module, you'll gain a range of skills crucial for modern web dev
 | [The Building Blocks of Full-Stack Web Apps](../the-building-blocks-of-full-stack-web-apps/README.md)     | 8 min  | [link](https://generalassembly.wistia.com/medias/4v0sg6yzu9) | Understanding full-stack: The front-end, back-end, and database.   |
 | [Frameworks and Libraries](../frameworks-and-libraries/README.md)                                         | 6 min  | [link](https://generalassembly.wistia.com/medias/y0318yhcys) | Differentiating frameworks and libraries.                          |
 | [Common Stacks Used in Modern Web Development](../common-stacks-used-in-modern-web-development/README.md) | 3 min  | [link](https://generalassembly.wistia.com/medias/lslg6nys33) | Exploring prevalent web development stacks and their applications. |
-| **Total content**                                                                                        | 24 min | --                                                           |                                                                    |
+| **Total content**                                                                                         | 24 min | --                                                           |                                                                    |
 
 ## References
 
