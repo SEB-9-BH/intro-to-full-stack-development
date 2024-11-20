@@ -32,8 +32,8 @@ Throughout this module, you'll gain a range of skills crucial for modern web dev
 
 ### Course landing pages
 
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-fullstack-development/canvas-landing-pages/seb)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-fullstack-development/canvas-landing-pages/fallback)
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-full-stack-development/canvas-landing-pages/seb)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-full-stack-development/canvas-landing-pages/fallback)
 
 ### Resources
 
