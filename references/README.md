@@ -1,4 +1,7 @@
-# ![Intro to Full-Stack Development - References](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Full Stack Development</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 

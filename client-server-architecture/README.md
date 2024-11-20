@@ -1,4 +1,7 @@
-# ![Intro to Full-Stack Development - Client/Server Architecture](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Full Stack Development</span>
+  <span class="subhead">Client Server Architecture</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to explain the roles of client and server software in web development, and recognize the importance of this architecture in full-stack development.
 
