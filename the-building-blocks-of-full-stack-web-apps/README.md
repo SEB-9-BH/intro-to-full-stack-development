@@ -1,4 +1,7 @@
-# ![Intro to Full-Stack Development - The Building Blocks of Full-Stack Web Apps](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Full Stack Development</span>
+  <span class="subhead">The Building Blocks of Full Stack Web Apps</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to define the three components of a full stack: front-end, back-end, and the database.
 

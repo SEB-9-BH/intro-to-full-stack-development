@@ -1,4 +1,7 @@
-# ![Intro to Full-Stack Development - Common Stacks Used in Web Development](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Full Stack Development</span>
+  <span class="subhead">Common Stacks Used in Modern Web Development</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will know about some of the most popular web development stacks used today.
 
