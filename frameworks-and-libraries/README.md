@@ -13,7 +13,7 @@ Frameworks and libraries are vital tools in software development. They leverage 
 
 - A *framework* provides the overarching structure for an application. It typically offers a set of rules or conventions to help standardize development. This means different applications built using the same framework will broadly look the same (for example, they'll have a similar directory structure).
 
-- A *libary* offers specific functionalities that developers can integrate into their projects as needed. Libraries handle specific tasks like working with dates, formatting strings, and presenting UI elements. They don't enforce how the overall application is structured or behaves.
+- A *library* offers specific functionalities that developers can integrate into their projects as needed. Libraries handle specific tasks like working with dates, formatting strings, and presenting UI elements. They don't enforce how the overall application is structured or behaves.
 
 This analogy from [freeCodeCamp](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/) outlines the difference:
 
